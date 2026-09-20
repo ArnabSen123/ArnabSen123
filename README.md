@@ -6,7 +6,14 @@
 
 <p align="center"> I enjoy learning by building things, experimenting with models, and turning ideas into working projects. </p>
 
-<p align="center"> <a href="https://www.linkedin.com/in/arnab-sen-antu/"> <img src="https://img.shields.io/badge/LinkedIn-arnab-sen-antu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:arnabsen496@gmail.com"> <img src="https://img.shields.io/badge/Email-arnabsen496@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/arnab-sen-antu/">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:arnabsen496@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 👋 About Me
 
