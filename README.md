@@ -46,12 +46,21 @@ Efficient / Lightweight Neural Networks
 Machine Learning for practical applications
 📊 GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ArnabSen123&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" /> </p>
+## 📊 GitHub Stats
 
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArnabSen123&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" /> </p>
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=ArnabSen123&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="GitHub Stats"
+  />
+</p>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArnabSen123&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" /> </p>
-
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArnabSen123&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    alt="Top Languages"
+  />
+</p>
 📫 Get in Touch
 
 If you'd like to talk about software, AI, computer vision, research, or just building something interesting, feel free to reach out.
