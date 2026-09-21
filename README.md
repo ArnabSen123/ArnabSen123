@@ -8,14 +8,24 @@
   <img src="https://img.shields.io/badge/Status-Open%20to%20Work-10B981?style=for-the-badge" />
 </p>
 
-<h3 align="center">Software Engineering graduate exploring AI, Deep Learning, and Computer Vision.</h3>
-
-<p align="center">I enjoy learning by building things, experimenting with models, and turning ideas into working projects.</p>
+<h3 align="center">
+  Software Engineering graduate exploring AI, Deep Learning, and Computer Vision.
+</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/arnab-sen-antu/"><img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:arnabsen496@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  I enjoy learning by building things, experimenting with models, and turning ideas into working projects.
 </p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/arnab-sen-antu/">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:arnabsen496@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
 
 ## 👋 About Me
 
@@ -24,6 +34,8 @@ I'm a Software Engineering graduate from Shahjalal University of Science and Tec
 Most of my recent work has been around Deep Learning and Computer Vision, particularly image and video-based problems. I'm especially interested in making deep learning models smaller and more efficient without losing too much accuracy.
 
 I also enjoy working on software projects outside of ML. For me, building something from an idea, figuring out why it doesn't work, and gradually making it better is a big part of the fun.
+
+---
 
 ## 🛠️ Technologies I Work With
 
@@ -40,13 +52,15 @@ I also enjoy working on software projects outside of ML. For me, building someth
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
 </p>
 
+---
+
 ## 🚀 Projects
 
 - **Pokedex** — Exploring Android development through a Pokémon browser.
 - **Weather App** — A simple application for working with weather data and APIs.
 - **Grocery Shop** — A web project focused on basic e-commerce functionality.
 
-I'm also working on projects around computer vision, gesture recognition, and plant disease classification.
+---
 
 ## 🔬 What I'm Exploring
 
@@ -55,24 +69,37 @@ I'm also working on projects around computer vision, gesture recognition, and pl
 - Image & Video Understanding
 - 3D Vision
 - Efficient / Lightweight Neural Networks
+- Gesture Recognition
+- Plant Disease Classification
 - Machine Learning for practical applications
+
+---
 
 ## 📊 GitHub Activity
 
-The dynamic stats providers were returning `Error Fetching Resource`, so this section uses GitHub's own profile pages instead of unreliable third-party API cards.
-
 <p align="center">
   <a href="https://github.com/ArnabSen123?tab=repositories">
-    <img src="https://img.shields.io/badge/View%20all%20repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="View repositories" />
+    <img
+      src="https://img.shields.io/badge/View%20all%20repositories-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="View repositories"
+    />
   </a>
+
   <a href="https://github.com/ArnabSen123?tab=stars">
-    <img src="https://img.shields.io/badge/View%20starred%20repositories-F7B93E?style=for-the-badge&logo=github&logoColor=181717" alt="View starred repositories" />
+    <img
+      src="https://img.shields.io/badge/View%20starred%20repositories-F7B93E?style=for-the-badge&logo=github&logoColor=181717"
+      alt="View starred repositories"
+    />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/ArnabSen123">View my live contribution graph and profile activity on GitHub →</a>
+  <a href="https://github.com/ArnabSen123">
+    View my GitHub profile and contribution activity →
+  </a>
 </p>
+
+---
 
 ## 📫 Get in Touch
 
@@ -80,9 +107,13 @@ If you'd like to talk about software, AI, computer vision, research, or just bui
 
 <p align="left">
   <a href="https://www.linkedin.com/in/arnab-sen-antu/">LinkedIn</a> ·
-  <a href="mailto:arnabsen496@gmail.com">Email</a>
+  <a href="mailto:arnabsen496@gmail.com">Email</a> ·
+  <a href="https://github.com/ArnabSen123">GitHub</a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ArnabSen123&label=Profile%20Views&color=0A84FF&style=flat" alt="Profile views" />
+  <img
+    src="https://komarev.com/ghpvc/?username=ArnabSen123&label=Profile%20Views&color=0A84FF&style=flat"
+    alt="Profile views"
+  />
 </p>
