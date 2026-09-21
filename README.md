@@ -78,19 +78,24 @@ I also enjoy working on software projects outside of ML. For me, building someth
 ## 📊 GitHub Activity
 
 <p align="center">
-  <a href="https://github.com/ArnabSen123?tab=repositories">
-    <img
-      src="https://img.shields.io/badge/View%20all%20repositories-181717?style=for-the-badge&logo=github&logoColor=white"
-      alt="View repositories"
-    />
-  </a>
+  <img
+    src="./profile/stats.svg"
+    alt="GitHub Stats"
+    width="48%"
+  />
+  <img
+    src="./profile/top-langs.svg"
+    alt="Top Languages"
+    width="48%"
+  />
+</p>
 
-  <a href="https://github.com/ArnabSen123?tab=stars">
-    <img
-      src="https://img.shields.io/badge/View%20starred%20repositories-F7B93E?style=for-the-badge&logo=github&logoColor=181717"
-      alt="View starred repositories"
-    />
-  </a>
+<p align="center">
+  <img
+    src="./profile/streak.svg"
+    alt="GitHub Contribution Streak"
+    width="70%"
+  />
 </p>
 
 <p align="center">
